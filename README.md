@@ -1,5 +1,10 @@
 # SortVisualizer
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+
 a simple program for visualizing sorting algorithms, running on PCs and smartphones
+
+## ⭐ Пожалуйста, ставьте звёзды на мои проекты если они вам понравились, звёзды будут продвигать репозитории, чтобы о них узнало больше человек. ⭐
 
 # Start
 
